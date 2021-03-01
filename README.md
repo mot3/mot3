@@ -1,4 +1,5 @@
 ### Hi there 👋
+Follow me on the [linkedin](http://linkedin.com/in/hopdrmot3)
 
 ![born](https://img.shields.io/badge/born-1999-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)

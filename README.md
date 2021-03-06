@@ -12,6 +12,9 @@ Follow me on the [linkedin](http://linkedin.com/in/hopdrmot3)
 </a>
 
 #### Donate:
+![BitCoin](https://user-images.githubusercontent.com/40730068/110217215-238e0100-7ec8-11eb-894e-2945d0f1c81b.png)
+
+BitCoin : bc1q2yd0ls46dnhq562um65d696ue4gsdftlpuv2my
 
 ![DogeCoin](https://user-images.githubusercontent.com/40730068/110203799-5662d580-7e85-11eb-8b78-faecd58f5527.png)
 

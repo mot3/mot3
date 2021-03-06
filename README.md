@@ -11,6 +11,11 @@ Follow me on the [linkedin](http://linkedin.com/in/hopdrmot3)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mot3&theme=nord" />
 </a>
 
+Donate:
+[Doge Coin](
+![image](https://user-images.githubusercontent.com/40730068/110203799-5662d580-7e85-11eb-8b78-faecd58f5527.png))
+
+
 <!--
 **mot3/mot3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -11,9 +11,11 @@ Follow me on the [linkedin](http://linkedin.com/in/hopdrmot3)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mot3&theme=nord" />
 </a>
 
-Donate:
-[Doge Coin](
-![image](https://user-images.githubusercontent.com/40730068/110203799-5662d580-7e85-11eb-8b78-faecd58f5527.png))
+#### Donate:
+
+Doge Coin : DJ4XFR4itXV8XJb9dFn1j2HCePcCzbQhQK
+
+![Doge Coin](https://user-images.githubusercontent.com/40730068/110203799-5662d580-7e85-11eb-8b78-faecd58f5527.png)
 
 
 <!--

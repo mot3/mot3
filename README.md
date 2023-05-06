@@ -11,12 +11,12 @@ Follow me on the [linkedin](http://linkedin.com/in/hopdrmot3)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mot3&theme=nord" />
 </a>
 
-#### Donate:
-BitCoin : bc1q2yd0ls46dnhq562um65d696ue4gsdftlpuv2my
-
-DogeCoin : DJ4XFR4itXV8XJb9dFn1j2HCePcCzbQhQK
-
 <!--
+#### Donate:
+BitCoin :
+
+DogeCoin :
+
 **mot3/mot3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

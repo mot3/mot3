@@ -5,6 +5,10 @@ Follow me on the [linkedin](http://linkedin.com/in/hopdrmot3)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-iran-3c9)
 
+View Count
+
+![View Count](https://profile-counter.glitch.me/{mot3}/count.svg)
+
 <a href="https://github.com/mot3">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mot3&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
 <a href="https://github.com/mot3">
